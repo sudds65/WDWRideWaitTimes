@@ -8,8 +8,8 @@ Live ride wait times for all four Walt Disney World parks — available as an **
 
 | Branch | App | Platform |
 |---|---|---|
-| `claude/disney-wait-times-app-lbmkB` | DisneyWaitTimes | iPhone (iOS 17+) |
-| `claude/disney-wait-times-tvos-app` | DisneyWaitTimesTV | Apple TV HD / 4K (tvOS 17+) |
+| `disney-wait-times-app-lbmkB` | DisneyWaitTimes | iPhone (iOS 17+) |
+| `disney-wait-times-tvos-app` | DisneyWaitTimesTV | Apple TV HD / 4K (tvOS 17+) |
 
 Both apps pull live data from the free [themeparks.wiki](https://themeparks.wiki) public API — no account or API key required.
 
@@ -62,7 +62,7 @@ Both apps pull live data from the free [themeparks.wiki](https://themeparks.wiki
 ### Download
 
 1. In Safari, go to:
-   **https://github.com/sudds65/TestClaude/tree/claude/disney-wait-times-app-lbmkB**
+   **https://github.com/sudds65/Test /tree/ /disney-wait-times-app-lbmkB**
 2. Sign in to GitHub if prompted.
 3. Click the green **Code** button → **Download ZIP**.
 4. In Finder → Downloads: double-click the ZIP to unzip it, then drag the folder to your Desktop.
@@ -106,7 +106,7 @@ The signing process is identical to the iPhone app. The key difference is that *
 ### Download
 
 1. In Safari, go to:
-   **https://github.com/sudds65/TestClaude/tree/claude/disney-wait-times-tvos-app**
+   **https://github.com/sudds65/Test /tree/ /disney-wait-times-tvos-app**
 2. Sign in to GitHub if prompted.
 3. Click the green **Code** button → **Download ZIP**.
 4. Unzip, drag the folder to your Desktop.
